@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: dirtbag.dispatcher
+---
+testFramework: spock
+sourceLanguage: groovy
